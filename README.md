@@ -1,0 +1,3 @@
+- 👋 Hello! I’m @GianellaVezzoni, Software developer and QA Automation.
+- 🌱 I’m currently learning new technologies or tools.
+- 📫 Send me an email vezzoni.00@gmail.com.
